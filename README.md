@@ -51,8 +51,8 @@ Steps undertaken:
 - **Audience Metrics**:  
   - Average weekly viewership: **60,919 viewers**.  
   - **CBeebies** led with a **45.84% share**, peaking at 600K viewers.  
-  - **Narrative channels** (Pop, Tiny Pop, Pop Max): **19.66% share**, peaking at 24.93% in October.  
-![image](https://github.com/user-attachments/assets/be9d9f50-e281-46ea-b3d0-1efb79c30d7d)
+  - **Narrative channels** (Pop, Tiny Pop, Pop Max): **19.66% share**, peaking at 24.93% in October.
+![image](https://github.com/user-attachments/assets/19432c36-c030-4545-90fb-1534ab32376b)
 
 ---
 
@@ -85,7 +85,7 @@ Steps undertaken:
   - Bluey (CBeebies): Consistently top-performing.  
   - Peppa Pig (Nick Jr., Nick Jr. 2): Aired over 1002 times in September.  
   - Grizzy and the Lemmings (Boomerang, Pop, Tiny Pop): Broad appeal across five channels.  
-
+![image](https://github.com/user-attachments/assets/be9d9f50-e281-46ea-b3d0-1efb79c30d7d)
 - **Narrative Channels**:  
   - Alvin and the Chipmunks  
   - Grizzy and the Lemmings  
@@ -110,6 +110,7 @@ Steps undertaken:
 1️⃣ **Time Slot Engagement**:  
    - Morning (7:00–7:30 AM): +147% spike in viewership.  
    - Afternoon (4:00–5:00 PM): +47% rise.  
+![image](https://github.com/user-attachments/assets/27f33a34-acc1-4958-a349-c4b4790d6d1b)
 
 2️⃣ **Seasonal Trends**:  
    - December: 🎄 **Peak engagement during Christmas holidays**.  
@@ -120,6 +121,7 @@ Steps undertaken:
 4️⃣ **Underperforming Channels**: Content misalignment or promotional gaps affect viewership.  
 
 5️⃣ **Runtime vs. Frequency**: Shorter runtimes like Peppa Pig (5:18 mins) correlate with higher airing frequency.  
+![image](https://github.com/user-attachments/assets/ec096502-a19c-4fe1-a5cc-31c14bb885e2)
 
 ---
 
