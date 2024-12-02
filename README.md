@@ -52,6 +52,7 @@ Steps undertaken:
   - Average weekly viewership: **60,919 viewers**.  
   - **CBeebies** led with a **45.84% share**, peaking at 600K viewers.  
   - **Narrative channels** (Pop, Tiny Pop, Pop Max): **19.66% share**, peaking at 24.93% in October.  
+![image](https://github.com/user-attachments/assets/be9d9f50-e281-46ea-b3d0-1efb79c30d7d)
 
 ---
 
